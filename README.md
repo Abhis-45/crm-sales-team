@@ -5,7 +5,7 @@ This repo contains a full-stack CRM project:
 - Frontend: Next.js (in /frontend)
 
 ## Quick start
-
+## Live Demo - https://crm-sales-team-ui.vercel.app/
 ### Backend
 cd backend
 cp .env.example .env
